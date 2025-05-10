@@ -119,7 +119,7 @@ When using `setup.sh` the following applications will be installed. It's possibl
 
 | Core | Application | CLI |
 | :-------------------------: | :-------------------: | :-----------: |
-| llinux-headers | Kitty | git |
+| linux-headers | Kitty | git |
 | QT5-Wayland | Swappy | JQ |
 | QT5CT | Grim | OpenSSH |
 | Hyprland | Slurp | GVFS |
